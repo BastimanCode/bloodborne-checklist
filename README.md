@@ -1,5 +1,5 @@
 ## Bloodborne Checklist
 
-Based on https://zkjellberg.github.io/bloodborne-cheat-sheet/. Zachary's cheat sheet felt incomplete to me, with a lot of missing NPC questline and pick up info. So I made a copy and added the missing parts.
+Based on https://modo-lv.github.io/bloodborne-checklist/, which is based on https://zkjellberg.github.io/bloodborne-cheat-sheet/. I just added the locations for DLC Trick Weapons, Firearms and Hunter Tools.
 
-Check it out here: https://modo-lv.github.io/bloodborne-checklist/
+Can be found here: https://bastimancode.github.io/bloodborne-checklist/
